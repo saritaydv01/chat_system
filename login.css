@@ -1,0 +1,27 @@
+  /* login and register page css */
+  body {
+    background-image: url(img/bg.png);
+    background-size:contain; 
+ } 
+  *[role="form"] {
+    max-width: 615px;
+    padding: 29px;
+    padding-right: 76px; 
+    margin: 0 auto;
+    background-color: whitesmoke;
+    border-radius: 0.3em;
+    border-top: 10px solid rgba(255, 221, 31, 0.89);
+  }
+  
+  *[role="form"] h2 {
+    margin-left: 5em;
+    margin-bottom: 1em;
+  }
+  
+  .card{
+  
+    border: black;
+    width: 90%;
+    /* background-color: rebeccapurple; */
+    padding: 40px;
+  }
